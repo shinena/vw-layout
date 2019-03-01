@@ -1,9 +1,5 @@
 # vw-layout
 
-> A Vue.js project
-
-## Build Setup
-
 ``` bash
 # install dependencies
 npm install
@@ -11,20 +7,11 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+vw实现移动端适配、容器长宽比、CSS实现长宽比的几种方案
+
+
+原文:
+https://www.w3cplus.com/mobile/vw-layout-in-vue.html
+https://www.w3cplus.com/css/aspect-ratio-boxes.html
